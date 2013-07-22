@@ -1,6 +1,6 @@
 # Exercises for chapter 2:
 
-# Name:# 10 day Dev Challenge
+# Name: 10 day Dev Challenge
 # by OwNumero
 # 
 # 
